@@ -10,7 +10,7 @@
 #define	ENABLE_FATAL			/*  */
 #define	ENABLE_ERROR            /*  */
 
-#ifdef  DEBUG
+#ifdef  DEBUG_LOG
 #define	ENABLE_WARN			/*  */
 #define	ENABLE_INFO			/*  */
 #define	ENABLE_TRACE			/*  */
